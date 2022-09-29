@@ -1,0 +1,18 @@
+name: sachin
+occupation: learner
+age: 33
+gpa: 9.8
+height: 6.0
+hobbies:
+ -travelling
+ -learming
+ -reading
+ -yoga
+address: Dell a 103
+
+tell me something: >
+ what
+ i 
+ need
+ to tell
+ you
